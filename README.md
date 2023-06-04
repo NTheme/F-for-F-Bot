@@ -1,1 +1,1 @@
-# F-for-F-Bot
+# Bot style
